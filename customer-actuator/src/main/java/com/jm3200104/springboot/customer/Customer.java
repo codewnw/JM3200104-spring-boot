@@ -1,8 +1,5 @@
 package com.jm3200104.springboot.customer;
 
-import javax.xml.bind.annotation.XmlRootElement;
-
-//@XmlRootElement
 public class Customer {
 
 	private Long id;
